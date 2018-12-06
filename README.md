@@ -6,6 +6,8 @@ Designed to relieve first-day jitters, this app functions as a game with timers 
 
 Each time an employee completes the challenges they can compare their scores with previous "players." Employers can see which questions each employee got right through the manager analytics page.
 
+![alt text](/jump.jpg?raw=true "1st pic") 
+
 ## MySQL Database
 What is in MYSQL?: The questions, the answers, the accounts of each player, the scores and times of each attempt.
 
